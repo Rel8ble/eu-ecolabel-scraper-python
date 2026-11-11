@@ -1,0 +1,495 @@
+[
+  {
+    "productName": "FAYMAN ECOLOGIC BAÑOS",
+    "productSubcategory": "Sanitary cleaner",
+    "licenceNumber": "ES08/020/00005",
+    "licenceHolder": "INOCENTE GARCÍA MORENO, SL",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "Spain",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "ES"
+    ],
+    "availableInCount": 1,
+    "ean13": [
+      "8436017250138"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162875.html"
+  },
+  {
+    "productName": "FAYMAN ECOLOGIC DESENGRASANTE",
+    "productSubcategory": "Kitchen cleaner",
+    "licenceNumber": "ES08/020/00004",
+    "licenceHolder": "INOCENTE GARCÍA MORENO, SL",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "Spain",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "ES"
+    ],
+    "availableInCount": 1,
+    "ean13": [
+      "8436017250053"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162874.html"
+  },
+  {
+    "productName": "FAYMAN ECOLOGIC FREGASUELOS",
+    "productSubcategory": null,
+    "licenceNumber": "ES08/020/00003",
+    "licenceHolder": "INOCENTE GARCÍA MORENO, SL",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "Spain",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "ES"
+    ],
+    "availableInCount": 1,
+    "ean13": [
+      "8436017250152"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162873.html"
+  },
+  {
+    "productName": "FAYMAN ECOLOGIC LIMPIACRISTALES",
+    "productSubcategory": "Window cleaner",
+    "licenceNumber": "ES08/020/00002",
+    "licenceHolder": "INOCENTE GARCÍA MORENO, SL",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "Spain",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "ES"
+    ],
+    "availableInCount": 1,
+    "ean13": [
+      "8436017250084"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162872.html"
+  },
+  {
+    "productName": "Nettoyant Sols Surodorant 250 x 20 ml ECOFLOR FRUITE",
+    "productSubcategory": "All-purpose cleaner",
+    "licenceNumber": "FR/020/035",
+    "licenceHolder": "LABORATOIRES ROCHEX",
+    "licenceHolderVat": "FR73389284753",
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162766.html"
+  },
+  {
+    "productName": "SOLAROM Nettoyant Sols Fraîcheur 5L ACTIVERT",
+    "productSubcategory": "All-purpose cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162765.html"
+  },
+  {
+    "productName": "Nettoyant Sanitaire 750mL + Recharge 5L OSAN",
+    "productSubcategory": "Sanitary cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162764.html"
+  },
+  {
+    "productName": "Nettoyant Vitres Prêt à l'emploi 750ml + Recharge 5L blanc (FR, NL) SID.ECO VITRE",
+    "productSubcategory": "Window cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162763.html"
+  },
+  {
+    "productName": "Nettoyant Toutes Surfaces Vitrées 750 mL + Recharge 5L OGLAS",
+    "productSubcategory": "Window cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162762.html"
+  },
+  {
+    "productName": "CLARIS Nettoyant Surfaces Vitrées Spray 750mL + Recharge 5L ACTIVERT",
+    "productSubcategory": "Window cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162761.html"
+  },
+  {
+    "productName": "GRAISI Nettoyant Dégraissant Sols et Multi-Usages 5L ACTIVERT",
+    "productSubcategory": "All-purpose cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162760.html"
+  },
+  {
+    "productName": "SOLAROM Nettoyant Sols Exotique 5L doseur ACTIVERT",
+    "productSubcategory": "All-purpose cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162759.html"
+  },
+  {
+    "productName": "SOLAROM Concentré Nettoyant Sols Exotique 5L bouchon doseur ACTIVERT",
+    "productSubcategory": "All-purpose cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162758.html"
+  },
+  {
+    "productName": "ROSEO Nettoyant Sanitaires Spray 750mL + Recharge 5L ACTIVERT",
+    "productSubcategory": "Sanitary cleaner",
+    "licenceNumber": "FR/020/022",
+    "licenceHolder": "RCSI",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162757.html"
+  },
+  {
+    "productName": "Nettoyant Détartrant spray 750mL (2 flacons Caps) + Recharge 5L NET’SAN VG",
+    "productSubcategory": "Sanitary cleaner",
+    "licenceNumber": "FR/020/028",
+    "licenceHolder": "EUROCHIMIC - SOCHIPHARM - ELCOPHARMA",
+    "licenceHolderVat": null,
+    "licenceHolderCountry": "France",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "FR"
+    ],
+    "availableInCount": 1,
+    "ean13": [],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162754.html"
+  },
+  {
+    "productName": "ODOR LINE INDOOR CAPS (80 CAPS)",
+    "productSubcategory": null,
+    "licenceNumber": "PL/020/032",
+    "licenceHolder": "Pollet s.a.",
+    "licenceHolderVat": "BE0418402966",
+    "licenceHolderCountry": "Belgium",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "availableInCount": 28,
+    "ean13": [
+      "0541128321788"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162701.html"
+  },
+  {
+    "productName": "ODOR LINE INDOOR CAPS (16 CAPS)",
+    "productSubcategory": null,
+    "licenceNumber": "PL/020/032",
+    "licenceHolder": "Pollet s.a.",
+    "licenceHolderVat": "BE0418402966",
+    "licenceHolderCountry": "Belgium",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "availableInCount": 28,
+    "ean13": [
+      "0541128321788"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162700.html"
+  },
+  {
+    "productName": "ODOR LINE INDOOR CAPS (4 CAPS)",
+    "productSubcategory": null,
+    "licenceNumber": "PL/020/032",
+    "licenceHolder": "Pollet s.a.",
+    "licenceHolderVat": "BE0418402966",
+    "licenceHolderCountry": "Belgium",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "availableInCount": 28,
+    "ean13": [
+      "0541128321788"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162699.html"
+  },
+  {
+    "productName": "ODOR LINE SANITARY CAPS (80 CAPS)",
+    "productSubcategory": null,
+    "licenceNumber": "PL/020/032",
+    "licenceHolder": "Pollet s.a.",
+    "licenceHolderVat": "BE0418402966",
+    "licenceHolderCountry": "Belgium",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "availableInCount": 28,
+    "ean13": [
+      "0541128321788"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162698.html"
+  },
+  {
+    "productName": "ODOR LINE SANITARY CAPS (16 CAPS)",
+    "productSubcategory": null,
+    "licenceNumber": "PL/020/032",
+    "licenceHolder": "Pollet s.a.",
+    "licenceHolderVat": "BE0418402966",
+    "licenceHolderCountry": "Belgium",
+    "productGroup": "Hard Surface Cleaning Products",
+    "criteriaDecision": "2017/1217/EU",
+    "expiresOn": "2026-12-31",
+    "availableIn": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "availableInCount": 28,
+    "ean13": [
+      "0541128321788"
+    ],
+    "productUrl": "https://environmental-data.ec.europa.eu/ecolabel/products/product_162697.html"
+  }
+]
